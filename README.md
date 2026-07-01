@@ -10,9 +10,15 @@ Given a driving video, build a scalable lane extraction method to estimate:
 
 - Lane line positions relative to the camera center
 - Number of visible lane lines
-- A clean white-background drawing of the detected lane layout, similar to the sample image
+- A clean white-background drawing of the detected lane layout, similar to the example below
 
 There is no fixed right answer. We care about your reasoning, method, and execution.
+
+## Goal Example
+
+Your `output_lane_drawing.png` should look like a clean lane layout on a white background, similar to this:
+
+![Goal example: lane layout on a white background](goal-example.png)
 
 ## Download Video
 
